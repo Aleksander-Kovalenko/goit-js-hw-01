@@ -36,6 +36,7 @@ if (price !== 0) {
   // Write code on this line
   message = `Доставка в ${country} будет стоить ${price} кредитов`;
 }
+
 console.log(message);
 
 //если countryName равно "КитаЙ"
